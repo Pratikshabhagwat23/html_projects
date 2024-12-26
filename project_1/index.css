@@ -89,3 +89,474 @@ p{
     color: white;
     font-size: 20px;
 }
+h2{
+    padding-bottom: 20px;
+}
+.container{
+    padding: 50px;
+    padding-left: 150px;
+    background-color: black;
+}
+.select-container{
+    display: flex;
+}
+.select-container1{
+    margin-left: 30px;
+}
+.picture-container{
+    width: 88%;
+    display: flex;
+    gap: 20px;
+    overflow: auto;
+    padding-top: 20px;
+    padding-left: 10px;
+    /* min-width: 200px; */
+    scrollbar-width: none;
+}
+.picture-1{
+    height: 250px;
+    width: 480px;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg);
+    background-size: cover;
+    min-width: 200px;
+
+}
+.picture-1:hover{
+    transform: scale(1.1, 1.1);
+}
+.small-1{
+    background-color: red;
+    height: 15px;
+    width: 130px;
+    position: absolute;
+    top:219px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.picture-2{
+    height: 250px;
+    width: 580px;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg);
+    background-size: cover;
+    min-width: 200px;
+
+}
+.picture-2:hover{
+    transform: scale(1.1, 1.1);
+}
+.small-2{
+    background-color: red;
+    height: 15px;
+    width: 130px;
+    position: absolute;
+    top:219px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.picture-3{
+    height: 250px;
+    width: 580px;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg);
+    background-size: cover;
+    min-width: 200px;
+
+}
+.picture-3:hover{
+    transform: scale(1.1, 1.1);
+}
+.small-3{
+    background-color: red;
+    height: 15px;
+    width: 130px;
+    position: absolute;
+    top:219px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.picture-4{
+    height: 250px;
+    width: 580px;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg);
+    background-size: cover;
+    min-width: 200px;
+
+}
+.picture-4:hover{
+    transform: scale(1.1, 1.1);
+}
+.small-4{
+    background-color: red;
+    height: 15px;
+    width: 130px;
+    position: absolute;
+    top:219px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.picture-5{
+    height: 250px;
+    width: 580px;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg);
+    background-size: cover;
+    min-width: 200px;
+
+}
+.picture-5:hover{
+    transform: scale(1.1, 1.1);
+}
+.small-5{
+    background-color: red;
+    height: 15px;
+    width: 130px;
+    position: absolute;
+    top:219px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.picture-6{
+    height: 250px;
+    width: 580px;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg);
+    background-size: cover;
+    min-width: 200px;
+
+}
+.picture-6:hover{
+    transform: scale(1.1, 1.1);
+}
+.small-6{
+    background-color: red;
+    height: 15px;
+    width: 130px;
+    position: absolute;
+    top:219px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.picture-7{
+    height: 250px;
+    width: 580px;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg);
+    background-size: cover;
+    min-width: 200px;
+
+}
+.picture-7:hover{
+    transform: scale(1.1, 1.1);
+}
+.small-7{
+    background-color: red;
+    height: 15px;
+    width: 130px;
+    position: absolute;
+    top:219px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+.picture-8{
+    height: 250px;
+    width: 580px;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    background-image: url(https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg);
+    background-size: cover;
+    min-width: 200px;
+
+}
+.picture-8:hover{
+    transform: scale(1.1, 1.1);
+}
+.small-8{
+    background-color: red;
+    height: 15px;
+    width: 130px;
+    position: absolute;
+    top:219px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    border-radius: 10px;
+}
+h2{
+    padding-top: 80px;
+}
+.reason-container p{
+    margin: 20px;
+}
+.reason-container{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    overflow: auto;
+    padding-top: 20px;
+    /* padding-left: 20px; */
+}
+.reason-1{
+    height: 300px;
+    width: 250px;
+    background: linear-gradient(to right bottom, #232642, #1a1842, #563239);
+    border-radius: 10px;
+}
+.reason-1 h2{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.reason-2{
+    height: 300px;
+    width: 250px;
+    background: linear-gradient(to right bottom, #232642, #1a1842, #563239);
+    border-radius: 10px;
+}
+.reason-2 h2{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.reason-3{
+    height: 300px;
+    width: 250px;
+    background: linear-gradient(to right bottom, #232642, #1a1842, #563239);
+    border-radius: 10px;
+}
+.reason-3 h2{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.reason-4{
+    height: 300px;
+    width: 250px;
+    background: linear-gradient(to right bottom, #232642, #1a1842, #563239);
+    border-radius: 10px;
+}
+.reason-4 h2{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.question-container{
+    width: 88%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-top: 40px;
+}
+.question-1{
+    height: 50px;
+    /* width: 1030px; */
+    background-color: rgba(66, 64, 64, 0.91);
+    padding-top: 20px;
+    padding-left: 60px;
+    transition: all;
+    
+}
+.question-1:hover{
+    background-color: rgba(123, 120, 120, 0.666);
+}
+.question-2{
+    height: 50px;
+    /* width: 1060px; */
+    background-color: rgba(66, 64, 64, 0.91);
+    padding-top: 20px;
+    padding-left: 60px;
+    transition: all;
+}
+.question-2:hover{
+    background-color: rgba(123, 120, 120, 0.666);
+}
+.question-3{
+    height: 50px;
+    /* width: 1060px; */
+    background-color: rgba(66, 64, 64, 0.91);
+    padding-top: 20px;
+    padding-left:60px;
+    transition: all;
+}
+.question-3:hover{
+    background-color: rgba(123, 120, 120, 0.666);
+}
+.question-4{
+    height: 50px;
+    /* width: 1060px; */
+    background-color: rgba(66, 64, 64, 0.91);
+    padding-top: 20px;
+    padding-left: 60px;
+    transition: all;
+}
+.question-4:hover{
+    background-color: rgba(123, 120, 120, 0.666);
+}
+.question-5{
+    height: 50px;
+    /* width: 1060px; */
+    background-color: rgba(66, 64, 64, 0.91);
+    padding-top: 20px;
+    padding-left: 60px;
+    transition: all;
+}
+.question-5:hover{
+    background-color: rgba(123, 120, 120, 0.666);
+}
+.question-6{
+    height: 50px;
+    /* width: 1060px; */
+    background-color: rgba(66, 64, 64, 0.91);
+    padding-top: 20px;
+    padding-left: 60px;
+    transition: all;
+}
+.question-6:hover{
+    background-color: rgba(123, 120, 120, 0.666);
+
+}
+.para{
+    font-size: 15px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+.email-1{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-left: 230px;
+   
+}
+.email-1 input{
+    width: 420px;
+    height: 50px;
+    border-radius: 7px;
+    background-color: rgb(73 70 70 / 20%);
+    color: white;
+    border: none;
+}
+.email-1 button{
+    width: 190px;
+    height: 50px;
+    border-radius: 7px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+.number{
+    margin-bottom: 40px;
+    padding-top: 50px;
+}
+.info-container1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.info-container2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+}
+.info-container3{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.info-container4{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.text1{
+    position: relative;
+    right: 86px;
+}
+.text2{
+    position: relative;
+    right: 160px;
+}
+.text3{
+    position: relative;
+    right: 247px;
+}
+.text4{
+    position: relative;
+    right: 155px;
+}
+.text5{
+    position: relative;
+    right: 146px;
+}
+.text6{
+    position: relative;
+    right: 252px;
+}
+.text7{
+    position: relative;
+    right: 58px;
+}
+.text8{
+    position: relative;
+    right: 133px;
+}
+.text9{
+    position: relative;
+    right: 265px;
+}
+.text10{
+    position: relative;
+    right: 133px;
+}
+.text11{
+    position: relative;
+    right: 214px;
+}
+select{
+    height: 40px;
+    width: 100px;
+    margin-bottom: 40px;
+}
